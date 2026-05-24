@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f0164437-6534-4aa6-87e0-fc337534fcb4" width="250" alt="大交的大手">
+  <br>
+</p>
+
 # 大连交通大学有线网自动认证工具 (DJTU Network Configurator)
 
 本项目专为大连交通大学（DJTU）的同学们开发，旨在彻底替代之前繁琐的有线校园网认证流程。只需一次配置，即可实现“开机即上网”的无感顺滑体验。
@@ -51,7 +56,11 @@ A: 本代码大部分由 AI 编写，难免存在未考虑到的极端情况或 
 
 **作者 B 站主页**：[疯狂混沌](https://space.bilibili.com/396813530) 
 **交流反馈 QQ 群**：`838041168`
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e930f54f-10d9-413c-8153-2d107f9a818e" width="250" alt="QQ群二维码">
+  <br>
+  <b>扫码加入交流群：838041168</b>
+</p>
 ---
 
 本项目开源仅供大连交通大学校内同学学习与交流使用，请勿用于任何商业用途。
